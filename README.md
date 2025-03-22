@@ -16,6 +16,7 @@ Repositório para armazenar resumos sobre **Git e GitHub** do curso **Versioname
 
 ```bash
 git init
+```
 
 ##🔍 Referências  
-- Digital Innovation One
+- [Digital Innovation One]()
